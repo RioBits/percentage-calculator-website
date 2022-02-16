@@ -1,0 +1,26 @@
+body {
+  color: #eeeeee;
+  background-color: #151519;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.btn {
+  margin: 0.2rem;
+  background-color: #b65dff;
+  color: #eeeeee;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+}
